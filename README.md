@@ -1,4 +1,4 @@
-# RockScissorsPaper.github.io
+# RockPaperScissors.github.io
 One of the oldest and played game ever: "Rock Scissors Paper"
 Fully realized with Python, easy logic and script based on computer & user choice!
 
